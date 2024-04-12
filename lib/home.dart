@@ -1334,7 +1334,7 @@ class _HomePageState extends State<HomePage> {
                                               aspectRatio: 1,
                                               child: DropAreaWidget(
                                                 texte:
-                                                    'Déposer ici les fichiers de ce personnel m',
+                                                    'Déposer ici les fichiers de ce personnel',
                                                 pickImage: _pickImagePersonnel,
                                                 onFiles: (files) {
                                                   for (var file in files) {
